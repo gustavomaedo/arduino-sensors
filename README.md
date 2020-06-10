@@ -1,2 +1,2 @@
-# waylle
+# arduino-sensors
 Multiple sensors with Arduino
