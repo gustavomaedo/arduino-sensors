@@ -1,2 +1,2 @@
 # arduino-sensors
-Multiple sensors with Arduino
+Multiplos sensores com Arduino e envio de dados via serial
